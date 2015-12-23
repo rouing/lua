@@ -10,7 +10,7 @@ want to choose a different version, simply define it in your Dockerfile like
 so:
 
 ```
-FROM abaez:5.1
+FROM abaez/lua:5.1
 ```
 
 You can pick the version of lua you want by using one of the following:
