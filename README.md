@@ -17,6 +17,7 @@ You can pick the version of lua you want by using one of the following:
     * 5.2: the most current version of lua-5.2.
     * 5.1: the most current version of lua-5.1.
 * minor version:
+    * 5.3.3
     * 5.3.2
     * 5.3.1
     * 5.2.4
