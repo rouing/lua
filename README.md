@@ -11,6 +11,7 @@ FROM https://docker.rouing.me/docker/lua
 You can pick the version of lua you want by using one of the following:
 
 * base branches:
-    * latest: the most current version of lua-5.3.
-    * 5.2: the most current version of lua-5.2.
-    * 5.1: the most current version of lua-5.1.
+    * latest: the most current version of lua-5.3
+    * 5.3: the most current version of lua-5.3 
+    * 5.2: the most current version of lua-5.2 (5.2.4)
+    * 5.1: the most current version of lua-5.1 (5.1.5)
