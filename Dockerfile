@@ -21,6 +21,7 @@ WORKDIR /
 # lua env
 ENV WITH_LUA /usr/local/
 ENV LUA_LIB /usr/local/lib/lua
+ENV LUA_LIBDIR /usr/local/lib/lua
 ENV LUA_INCLUDE /usr/local/include
 
 
