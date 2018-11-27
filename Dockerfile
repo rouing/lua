@@ -1,9 +1,9 @@
 FROM alpine
 
-MAINTAINER [Alejandro Baez](https://twitter.com/a_baez)
+MAINTAINER [William C Ardoin](https://git.rouing.me/)
 
 ENV LUA_MAJOR_VERSION 5.3
-ENV LUA_MINOR_VERSION 4
+ENV LUA_MINOR_VERSION 5
 ENV LUA_VERSION ${LUA_MAJOR_VERSION}.${LUA_MINOR_VERSION}
 
 # Dependencies
